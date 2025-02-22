@@ -1,10 +1,18 @@
-Template: clinical question
+Income disparities and mortality in the U.S.
 ============================================
-A living systematic review
+<!-- A living systematic review-->
 
-Short url: http://
+Short url: https://github.com/Income-disparities/Income-disparities-and-mortality
 
-**Clinical summary:** 
+<img src="https://github.com/ebmgt/Wage_ratio/blob/main/files/Plots/Income_distribution_v3--2025-02-09.png" alt="Wage ratios" width="400" align="right">
+
+Voters in both U.S. major political parties are frustrated with income disparities, whether it’s Republican anger at “coastal elitists” or Democratic anger at the “upper 1%”. The 2024 platforms of the two major parties both advocated for tax reductions to "[workers](https://gop.com/press-release/icymi-rnc-platform-committee-adopts-2024-republican-party-platform/)" or "[working families](https://democrats.org/where-we-stand/party-platform/)."
+
+What is the relationship between the income disparities (as measured by the [Gini Coefficient](https://en.wikipedia.org/wiki/Gini_coefficient) for income) and all-cause mortality in the U.S.?
+
+[Data and code](https://github.com/Income-disparities/Income-disparities-and-mortality/tree/master/files/data)
+<!--
+**Summary:** 
 This meta-analysis suggests that the effectiveness of the clinical intervention *is* [moderate](https://training.cochrane.org/handbook/current/chapter-15#section-15-5-3-1). [Standarized mean differences](https://training.cochrane.org/handbook/current/chapter-15#section-15-3) betweeen intervention and control groups across outcomes range from x to y. 
 
 Heterogeneity of results as measured by I<sup>2</sup> '[might not be important](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at x% for all analyses; however very wide confidence intervals reflect the small number of studies and subjects. 
@@ -36,26 +44,21 @@ The meta-regression for the primary outcomes are below. Additional [meta-regress
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 The GRADE Profile is below. ![GRADE Profile](files/GRADE-profiles/Summary-of-findings-table.png "GRADE Profile")
+-->
 
 References:
 ----------------------------------
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+Pending
 
-### Randomized controlled trials
-#### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+#### Studies undergoing review
+1. Dunn JR, Park GR, Brydon R, Veall M, Rolheiser LA, Wolfson M, Siddiqi A, Ross NA. State-level association between income inequality and mortality in the USA, 1989-2019: ecological study. J Epidemiol Community Health. 2024 Nov 11;78(12):772-778. doi: [10.1136/jech-2024-222262](http://doi.org/10.1136/jech-2024-222262). PMID: [39242190](http://pubmed.gov/39242190).
+2. Chetty R, Stepner M, Abraham S, Lin S, Scuderi B, Turner N, Bergeron A, Cutler D. The Association Between Income and Life Expectancy in the United States, 2001-2014. JAMA. 2016 Apr 26;315(16):1750-66. doi: 10.1001/jama.2016.4226. Erratum in: JAMA. 2017 Jan 3;317(1):90. doi: [10.1001/jama.2016.18691](http://doi.org/10.1001/jama.2016.18691). PMID: [27063997](http://pubmed.gov/27063997)
 
-#### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
-
-#### Trial(s) undergoing review
-None
-
-#### Trial(s) excluded - selected list of important trial(s)
+#### Studies excluded - selected list of important trial(s)
+Pending
 
 #### Cited by
 This repository is cited by:
